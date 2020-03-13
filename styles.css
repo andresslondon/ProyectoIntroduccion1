@@ -18,3 +18,17 @@ footer {
 color: white;
     text-align: center;
 }
+.page1title {
+    font-weight: bold;
+    color: green;
+}
+.subtitle1 {
+    font-weight: bold;
+    color: green;
+}
+.description2 {
+    font-style: italic;
+    font-family: Goudy Old Style;
+    text-align: justify;
+    color: green;
+}
